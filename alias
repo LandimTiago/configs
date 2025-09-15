@@ -1,6 +1,11 @@
+# github
 alias gc='git commit -S -m'
 alias gl='git pull'
 alias gp='git push'
 alias gco='git checkout'
 alias gcb='git checkout -b'
 alias gs='git status'
+
+# docker compose 
+alias dcu='docker compose up'
+alias dcd='docker compose down'
